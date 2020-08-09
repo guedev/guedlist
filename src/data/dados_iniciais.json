@@ -1,45 +1,45 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Música",
+      "link": "",
+      "cor": "#29526D",
       "link_extra": {
         "text": "",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "David Gilmour - Shine On You Crazy Diamond (Live At Pompeii)",
+          "url": "https://www.youtube.com/watch?v=CiXNIjGX1hY"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Led Zeppelin - Whole Lotta Love (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=HQmmM_qwG4k"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Greta Van Fleet - Highway Tune",
+          "url": "https://www.youtube.com/watch?v=aJg4OJxp-co"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "AC/DC - Highway to Hell (Live At River Plate, December 2009)",
+          "url": "https://www.youtube.com/watch?v=gEPmA3USJdI"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Chic feat. Nile Rodgers - Le Freak - live at Eden Sessions 2013",
+          "url": "https://www.youtube.com/watch?v=HvDiD_vbwpg"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Alan Walker - Faded",
+          "url": "https://www.youtube.com/watch?v=60ItHLz5WEA"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Barões da Pisadinha/ Tá Rocheda😎",
+          "url": "https://www.youtube.com/watch?v=WwDMYmS843Y"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Wesley Safadão part. Zé Neto & Cristiano - Na Cama Que Eu Paguei [Garota VIP Rio de Janeiro]",
+          "url": "https://www.youtube.com/watch?v=Jtler_CFqHI"
         }        
       ]
     },
