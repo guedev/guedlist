@@ -1,0 +1,28 @@
+* {
+  /*reset para fonte e tamanho do box*/
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+:root {
+/*Definição das cores padrões*/ 
+  --primary: #2A7AE4;
+  --black: #000000;
+  --blackLighter: #9E9E9E;
+  --grayLight: #F5F5F5;
+  --grayMedium: #e5e5e5; 
+  --white: #FFFFFF;
+  --frontEnd: #6BD1FF;
+  --backEnd: #00C86F;
+}
+/*definir as margens e padding do html para 0 
+(retirar borda e padding)*/
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+} 
